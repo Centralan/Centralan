@@ -4,3 +4,4 @@
 
 - Learning to code bits a time.
 - Coding Java and Lua for Minecraft.
+- Admin of [Runsafe Minecraft](https://discord.runsafe.no)
